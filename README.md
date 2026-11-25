@@ -11,8 +11,6 @@
 
 > A JavaFX desktop social chat application built on a custom TCP socket protocol, with real-time messaging, file transfer, group chat, and AI-powered smart reply suggestions.
 
-📦 **Repository:** [github.com/dyuvaraj148-ai/Real-Time-Chat-Application](https://github.com/dyuvaraj148-ai/Real-Time-Chat-Application)
-
 ---
 
 ## 🌟 Overview
